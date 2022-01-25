@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+![](src/image.png)
 
-You can use the [editor on GitHub](https://github.com/arnavkgupta/info474-a1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arnavkgupta/info474-a1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This visualization represents the total number of US births each month in the years of 2013 and 2014, as provided by the Social Security Administration. The purpose of this visualization is to show the difference in birth rate for both of the years. Not only does it show a yearly change but it also displays the monthly change during each year. It is crucial to monitor birth rates as they rise and fall and measure these trends to track important changes and what they may mean for our society's future. The graph is displayed as a line graph with the red line representing the year, 2013, and the blue line representing the year, 2014, according to the legend. The reason why a line plot was chosen for this visualization is because they are used to track changes over short and long periods of time. Especially when there are smaller changes, such as during the month as opposed to yearly changes, line graphs are optimal. A bar graph could have also been used but because we mainly want to analyze the change in birth rates over time, a line graph was considered to be the most useful. I decided to put months on the x-axis and then the number of births on the y-axis because, again, we are analyzing the birth rates over time, which is y over x. Choosing the right plot is important to help convery the right message to our audience. It also helps us to find outliers in our data, which in this case would be a sudden spike or decrease in the overall birth rates. 
